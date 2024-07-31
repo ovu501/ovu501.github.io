@@ -4,11 +4,30 @@
   
     
     <entry>
+      <title>Computer Networks</title>
+      <link href="/2024/07/31/Computer%20Network/"/>
+      <url>/2024/07/31/Computer%20Network/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> Networks </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>First Blog</title>
       <link href="/2024/07/26/First%20Blog/"/>
       <url>/2024/07/26/First%20Blog/</url>
       
-        <content type="html"><![CDATA[<h2 id="This-is-my-first-blog"><a href="#This-is-my-first-blog" class="headerlink" title="This is my first blog"></a>This is my first blog</h2>]]></content>
+        <content type="html"><![CDATA[<h1 id="This-is-my-first-blog"><a href="#This-is-my-first-blog" class="headerlink" title="This is my first blog"></a>This is my first blog</h1><p>I am writing this article to commemorate the successful establishment of my first blog website!<br><img src="/assets/sao1.png" alt="error!"></p>]]></content>
       
       
       
